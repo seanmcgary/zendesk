@@ -1,0 +1,23 @@
+{
+  "name": "zendesk",
+  "version": "0.0.1",
+  "description": "NodeJS library for the Zendesk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanmcgary/zendesk.git"
+  },
+  "author": "Sean McGary <sean@seanmcgary.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanmcgary/zendesk/issues"
+  },
+  "homepage": "https://github.com/seanmcgary/zendesk",
+  "dependencies": {
+    "q": "~1.1.2",
+    "lodash": "~2.4.1"
+  }
+}
